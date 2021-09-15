@@ -1,0 +1,11 @@
+D:\Lab3_ThucHanh\Lab3_ThucHanh\bin\Debug\Lab3_ThucHanh.exe.config
+D:\Lab3_ThucHanh\Lab3_ThucHanh\bin\Debug\Lab3_ThucHanh.exe
+D:\Lab3_ThucHanh\Lab3_ThucHanh\bin\Debug\Lab3_ThucHanh.pdb
+D:\Lab3_ThucHanh\Lab3_ThucHanh\obj\Debug\Lab3_ThucHanh.csproj.AssemblyReference.cache
+D:\Lab3_ThucHanh\Lab3_ThucHanh\obj\Debug\Lab3_ThucHanh.frmSinhVien.resources
+D:\Lab3_ThucHanh\Lab3_ThucHanh\obj\Debug\Lab3_ThucHanh.Properties.Resources.resources
+D:\Lab3_ThucHanh\Lab3_ThucHanh\obj\Debug\Lab3_ThucHanh.csproj.GenerateResource.cache
+D:\Lab3_ThucHanh\Lab3_ThucHanh\obj\Debug\Lab3_ThucHanh.csproj.CoreCompileInputs.cache
+D:\Lab3_ThucHanh\Lab3_ThucHanh\obj\Debug\Lab3_ThucHanh.exe
+D:\Lab3_ThucHanh\Lab3_ThucHanh\obj\Debug\Lab3_ThucHanh.pdb
+D:\Lab3_ThucHanh\Lab3_ThucHanh\obj\Debug\Lab3_ThucHanh.frmTuyChon.resources
